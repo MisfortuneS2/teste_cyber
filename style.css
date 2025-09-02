@@ -1,7 +1,8 @@
 body{
- background-color: #081c42;
+ background-color: #c7567c;
     color: #cfd5df;
     font-family: monospace;
-    font-size: large;
+    font-size: 22px;
     font-style: italic;
+    text-align: center;
 }
